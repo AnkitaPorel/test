@@ -1,7 +1,3 @@
-Below is a nicely formatted Markdown version of your document, preserving all the poem outputs exactly as provided while organizing the titles, categories, and poems clearly under sections. I've used headings, bullet points, and code blocks for readability.
-
----
-
 # Poem Collection
 
 This document contains a series of poems written based on specified titles and categories. Each poem adheres to the given style and theme.
