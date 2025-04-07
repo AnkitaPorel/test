@@ -100,5 +100,3 @@ The following are the outputs of various tokenizers applied to the Bengali sente
   ```
 
 ---
-
-This Markdown format organizes the tokenizer details with headings, bullet points, and code blocks for readability. Let me know if you need further adjustments!

@@ -1,6 +1,6 @@
 # Poem Collection
 
-This document contains a series of poems written based on specified titles and categories. Each poem adheres to the given style and theme.
+This document contains a series of poems written based on specified titles and categories.
 
 ---
 
@@ -127,8 +127,5 @@ This document contains a series of poems written based on specified titles and c
 ---
 
 ### Notes
-- Each poem is presented under its respective title and category, with the original multilingual text unchanged as per your instructions.
+- Each poem is presented under its respective title and category, with the original multilingual text unchanged.
 - Code blocks (` ```plaintext `) are used to preserve the exact formatting and content of the poems.
-- Categories are translated to English in parentheses for clarity, while keeping the Bengali original.
-
-Let me know if you’d like further adjustments, such as adding more styling or organizing differently!

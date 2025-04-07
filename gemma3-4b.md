@@ -7,7 +7,7 @@ This document contains a series of poems written based on specified titles and c
 ## Poem 1
 
 - **Title**: অমন আড়াল দিয়ে লুকিয়ে গেলে চলবে না।
-- **Category**: ভক্তিমূলক (Devotional)
+- **Category**: ভক্তিমূলক
 
 ```plaintext
 আমারে দেখবে কি? আমায় দেখা যাবে, এই কথা জেনেও যদি তুমি একা বসে থাকো; চোখ বুজে থাকে তোমার খোলা ঘরে-ঘর শূন্য হয়ে যায় যেন কোনো এক深夜কে কেন্দ্র করে আর আমি তো যাই নি কোথাও! আমার মুখের দিকে চেয়ে দেখো হে মানুষটি আমার জন্য কী গভীর অপেক্ষা আছে আজব
@@ -18,7 +18,7 @@ This document contains a series of poems written based on specified titles and c
 ## Poem 2
 
 - **Title**: আমি বসে ভাবি নিরালায় কি লিখি তোমায় কবিতায়
-- **Category**: বিষাদ (Melancholy)
+- **Category**: বিষাদ
 
 ```plaintext
 আমার মনে হয়, আমি একা আজ এই নিয়ে ভাবতে চাই।
@@ -33,7 +33,7 @@ This document contains a series of poems written based on specified titles and c
 ## Poem 3
 
 - **Title**: আমার প্রাণের শহর দুর্গাপুর
-- **Category**: প্রকৃতি (Nature)
+- **Category**: প্রকৃতি
 
 ```plaintext
 আমি আমার প্রাণ-শহর, দুর্গাপুরে আছি। সেইখানে আমি বড়ো বয়সে দেখেছি এক চাষাছেলেকে; তার নাম ছিল গোপাল । সে যখন ছোট ছেলেমানুষ তখন বাবা বলেছিলেনঃ“ இந்த বাড়িতে তোমার মা থাকে না আর” বলে আমাকে বুকে জড়িয়ে ধরে কেঁদেছিল অনেকবার。 কিন্তু কেন
@@ -44,7 +44,7 @@ This document contains a series of poems written based on specified titles and c
 ## Poem 4
 
 - **Title**: ভিড়ের মাঝে অনন্ত হাতছানি
-- **Category**: আনন্দমূলক (Joyful)
+- **Category**: আনন্দমূলক
 
 ```plaintext
 ভেঙেছে ভিড়, ভাঙেনি মন।
@@ -59,7 +59,7 @@ This document contains a series of poems written based on specified titles and c
 ## Poem 5
 
 - **Title**: তারা-মাঝি, তারা-নৌকা। নদী শেষ হয়ে আসে
-- **Category**: প্রকৃতি (Nature)
+- **Category**: প্রকৃতি
 
 ```plaintext
 তারার নৌকাটি চলছে নদীর কিনার ঘেঁষে; নৌকার পাশে বসেছে তার মাঝি । río দে লা পłaটা থেকে উঠে এসে সেই জলজ পাখিটির কাছেই সে চলে যায়:- এক পাড়ে ছিল না আর কোনোখানে শিশু prostaglandina গুলো যেন সুদূর অন্ধকার পথের মতো ধূসর অন্ধকারে হারিয়ে গেছে
@@ -70,7 +70,7 @@ This document contains a series of poems written based on specified titles and c
 ## Poem 6
 
 - **Title**: বনবিবির পায়েরে- ফোটে বুনো রোদের ফুল
-- **Category**: ছন্দময় (Rhythmic)
+- **Category**: ছন্দময়
 
 ```plaintext
 বনের ভিতর থেকে বনপরী বলে, “ওরে ওগো রে ভাই!“
@@ -83,7 +83,7 @@ This document contains a series of poems written based on specified titles and c
 ## Poem 7
 
 - **Title**: এমন রাষ্ট্রের চাহিদা তৈরি হইছিল
-- **Category**: সমাজ (Society)
+- **Category**: সমাজ
 
 ```plaintext
 আমার জন্ম ছিল এমন রাষ্ট্রেই, যেখানে মানুষের dignity গুলো খুব বেশি গুরুত্ব পায়। এখানে সবাই মানুষ বলে সম্মান পাবেই ঠিক রাখে না কেউ; তবু আমি সেই দেশের বাসিন্দা হতে চেয়েছি-এই বাংলাদেশটাকে আমার আপন মনে করে অনেকেই আমাকে ঘৃণা করেছেন হয়তো কখনো বা আমিও তাদেরকে ভালোবেসেছিলাম কিনা জানি কে জানে! :(
@@ -94,7 +94,7 @@ This document contains a series of poems written based on specified titles and c
 ## Poem 8
 
 - **Title**: বেশি সুখকর হলো তাকে আলিঙ্গন করা
-- **Category**: প্রেম (Love)
+- **Category**: প্রেম
 
 ```plaintext
 আমি তাহাকে বলি, ‘তোমাকে আমি ভালোবাসি।’
@@ -107,7 +107,7 @@ This document contains a series of poems written based on specified titles and c
 ## Poem 9
 
 - **Title**: বেশি সুখকর হলো তাকে আলিঙ্গন করা
-- **Category**: প্রকৃতি (Nature)
+- **Category**: প্রকৃতি
 
 ```plaintext
 আমার জীবনে কখনো ছিল না এমন কোনো দুঃখ যা আমাকে করেছে পাগল। কিন্তু আমি জানি, আমার অস্তিত্বের প্রতিটি মুহূর্তों মধ্যে কিছু আছে যেটাকে খুব বেশি কষ্ট দেয়; হয়তো এই মুহূর্তে সেগুলোকে নিয়ে ভাবতে গিয়েও মনকে আরও বড় করে তোলে。 আর আমিও কি সত্যিই সেই সব দুখগুলো মুছে ফেলে দিতে পারবো?
@@ -118,7 +118,7 @@ This document contains a series of poems written based on specified titles and c
 ## Poem 10
 
 - **Title**: বল, বল, বল সবে, শত বীণা-বেণু-রবে
-- **Category**: স্বদেশমূলক (Patriotic)
+- **Category**: স্বদেশমূলক
 
 ```plaintext
 ওগো দেশবাসী! ওরে জননী মা গো। बिजली যেন উঠিল আকাশে বাতাসে– […]
@@ -129,7 +129,7 @@ This document contains a series of poems written based on specified titles and c
 ## Poem 11
 
 - **Title**: বাংলার বায়ু, বাংলার ফল- পূণ্য হউক, পূণ্য হউক
-- **Category**: কীর্তন (Devotional Song)
+- **Category**: কীর্তন
 
 ```plaintext
 বাংলা plains ধরণীর বৃহৎ গহ্বর হতে বায়ুর সঞ্চারে আসে। 복울 ফুলে কলিを生anée; মৌমাছি ওড়না পরে ঘাসেতে গাছে ফুলধবল মাতি করে তারে! বাংলা মাঠের মধ্যে রয়েছে অগণ্য বনের সমারোহ—অসংখ্য বনতলে
@@ -138,9 +138,5 @@ This document contains a series of poems written based on specified titles and c
 ---
 
 ### Notes
-- Each poem is presented under its respective title and category, with the original text unchanged as per your instructions.
+- Each poem is presented under its respective title and category, with the original text unchanged.
 - Code blocks (` ```plaintext `) are used to preserve the exact formatting and content of the poems.
-- Categories are translated to English in parentheses for clarity, while keeping the Bengali original.
-- Poem 10 appears incomplete (ends with "[…]"). It is left as-is per your request not to change any output.
-
-Let me know if you’d like further adjustments or additional styling!
