@@ -62,7 +62,7 @@ This document contains a series of poems written based on specified titles and c
 ## Poem 6
 
 - **Title**: বনবিবির পায়েরে- ফোটে বুনো রোদের ফুল
-- **Category**: ছন্দময় (Rhythmic)
+- **Category**: ছন্দময়
 
 ```plaintext
 আবার কি হবে? এই যে ফুরোয়, সে তো শুধু। কেমনে তুমি দেখবে না; ভাবে তারে 많কি рост ছিল । નদীতে নদীর তলে জল আসে Paid בשান করে soaked হয় Grass ধানের পাতায় পাতা ঘাস ও বাঁশি খেলে যায় रंगों মতন Bright bright ध
